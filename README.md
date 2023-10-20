@@ -23,5 +23,6 @@ Antes de utilizar esta API, asegúrate de tener lo siguiente:
 
    ```bash
    npm install
-
- node index
+Comando de ejeccucion   
+   ```bash
+    node index
